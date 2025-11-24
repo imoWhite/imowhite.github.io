@@ -1,17 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![imowhite](https://github.com/imoWhite/imowhite.github.io/badge/imowhite-github-blue?logo=github)](https://github.com/imowhite)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+She is currently a bachelor's degree student in artificial intelligence at Macau University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: imowhite@outlook.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.Sc. in Artificial Intelligence, Macao Polytechnic University, 2029 (expected).
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Artificial Intelligence.
 
